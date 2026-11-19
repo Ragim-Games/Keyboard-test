@@ -1,0 +1,13 @@
+{
+  "name": "내 키보드 (예시 - 직접 수정하세요)",
+  "vendor_id": 0,
+  "product_id": 0,
+  "interface_number": null,
+  "key_offset": 2,
+  "value_bytes": 2,
+  "endian": "little",
+  "max_raw": 400,
+  "travel_mm": 4.0,
+  "test_key": "a",
+  "knob": { "left": "volume down", "right": "volume up", "click": "play/pause" }
+}
